@@ -8,7 +8,7 @@ I'm looking for graduate or junior roles in **SOC analysis, penetration testing,
 
 | | |
 |---|---|
-| 🛰️ **[Explainable Blockchain–AI Misbehaviour Detection for IoT & UAV Networks](https://github.com/Yousefscode/IoT-and-UAV-Xai-blockchain-with-misbehavior-detection-and-LLM)**<br/>MSc dissertation · IEEE NextGCom 2026 paper (in press) | 8 consensus algorithms, 10 ML detectors and LIME/SHAP written from scratch, plus local LLMs (Llama 3.2, Qwen 2.5, Gemma 2) that explain alerts and draft blocking rules. Byzantine protocols kept 100% of attacks off the ledger; the best detector reached **F1 0.961 / AUC 0.997** on UAV CAN-bus traffic. |
+| 🛰️ **[xai-blockchain misbehaviour detection](https://github.com/Yousefscode/IoT-and-UAV-Xai-blockchain-with-misbehavior-detection-and-LLM)**<br/>MSc dissertation · IEEE NextGCom 2026 paper (in press) | 8 consensus algorithms, 10 ML detectors and LIME/SHAP written from scratch, plus local LLMs (Llama 3.2, Qwen 2.5, Gemma 2) that explain alerts and draft blocking rules. Byzantine protocols kept 100% of attacks off the ledger; the best detector reached **F1 0.961 / AUC 0.997** on UAV CAN-bus traffic. |
 | 🔐 **[Optimising Multi-Scalar Multiplication](https://github.com/Yousefscode/Optimising-Multi-Scalar-Multiplication)**<br/>BSc dissertation | Bos-Coster, bucketing and Pippenger MSM on secp256k1, packaged as a tested Python library with an exact point-operation counter and a reproducible benchmark. |
 
 ## Toolkit
